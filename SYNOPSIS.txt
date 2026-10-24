@@ -1,0 +1,13 @@
+Student Placement and Recruitment Management System
+
+Project Synopsis
+
+This project is a system for managing student placements and company
+recruitment. It will help students maintain their profiles, view suitable job
+openings, apply for jobs, and check application and interview status.
+
+Placement administrators will manage student registrations, company details,
+job requirements, student applications, interview schedules, and hiring
+results. Companies can provide their information and job requirements.
+
+The project is planned to be developed in Python.
